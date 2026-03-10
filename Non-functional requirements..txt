@@ -1,0 +1,61 @@
+a. Performance Requirements
+
+  1. The system shall respond to user requests within 3 seconds under normal load.
+
+  2. The system shall support at least 500 concurrent users.
+
+  3. The system shall process appointment scheduling requests within 2 seconds.
+
+  4. The system shall generate billing reports within 5 seconds.
+
+b. Security Requirements
+
+  5. The system shall require user authentication before access.
+
+  6. The system shall enforce role-based access control.
+
+  7. The system shall encrypt sensitive patient data.
+
+  8. The system shall maintain audit logs for all user actions.
+
+  9. The system shall automatically log out inactive users after 15 minutes.
+
+c. Reliability Requirements
+
+  10. The system shall maintain 99.5% uptime availability.
+
+  11. The system shall perform automatic daily data backups.
+
+  12. The system shall support data recovery in case of system failure.
+
+  13. The system shall prevent data loss during unexpected shutdowns.
+
+d. Usability Requirements
+
+  14. The system interface shall be easy to use for non-technical staff.
+
+  15. The system shall provide clear error messages.
+
+  16.The system shall provide search functionality for patient records.
+
+  17. The system shall allow users to navigate the system within three clicks for major tasks.
+
+e. Scalability Requirements
+
+  18. The system shall support future integration with additional hospital departments.
+
+  19. The system shall allow database expansion without major system redesign.
+
+6. Maintainability Requirements
+
+  20. The system shall use modular architecture for easier maintenance.
+
+  21. The system shall include system documentation for developers.
+
+  22. The system shall allow software updates without affecting stored data.
+
+7. Compatibility Requirements
+
+  23. The system shall support modern web browsers.
+
+  24. The system shall operate on Windows and Linux server environments.
