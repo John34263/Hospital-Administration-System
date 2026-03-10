@@ -1,0 +1,73 @@
+1. Administrator creates user accounts
+
+2. Administrator updates user accounts
+
+3. Administrator deletes user accounts
+
+4. Administrator assigns user roles
+
+5. Administrator views system activity logs
+
+6. Administrator configures system settings
+
+7. Receptionist registers new patients
+
+8. Receptionist updates patient information
+
+9. Receptionist schedules patient appointments
+
+10. Receptionist reschedules patient appointments
+
+11. Receptionist cancels patient appointments
+
+12. Doctor views patient medical records
+
+13. Doctor updates patient medical records
+
+14. Doctor creates medical prescriptions
+
+15. Doctor requests laboratory tests
+
+16. Doctor views laboratory test results
+
+17. Doctor records patient diagnoses
+
+18. Doctor records treatment plans
+
+19. Nurse records patient vital signs
+
+20. Nurse updates patient treatment progress
+
+21. Nurse views assigned patient records
+
+22. Nurse assists in patient appointment scheduling
+
+23. Laboratory technician receives laboratory test requests
+
+24. Laboratory technician records laboratory test results
+
+25. Laboratory technician updates laboratory test status
+
+26. Laboratory technician sends laboratory results to doctors
+
+27. Pharmacist views prescriptions
+
+28. Pharmacist dispenses medications
+
+29. Pharmacist updates medication inventory
+
+30. Pharmacist records medication transactions
+
+31. Billing officer generates patient bills
+
+32. Billing officer processes patient payments
+
+33. Billing officer records insurance information
+
+34. Billing officer generates financial reports
+
+35. Patient views personal medical history
+
+36. Patient views scheduled appointments
+
+37. Patient downloads prescriptions
