@@ -1,0 +1,113 @@
+The Hospital Management System is designed to support the daily operations of a healthcare institution by integrating patient 
+management, medical services, staff coordination, and administrative processes into a unified digital platform that can be used by 
+anyone. In order for the system to work properly and functionally we have decided on these requirements that the developers must necessarily
+implement in order for it to fulfill the tasks for each specific user and improve work efficency in the hospital enviroments.
+
+1. The system will have the database that will hold information for each patients that gets registered in the hospital
+such as name, birth year, their payement and their past medical records whether it is from this hospital or other credited institutions,
+etc.
+
+2.The patients can search on the system for who is the best kind of doctor they should consult in relation to their symptoms, current
+conditions or medical status and be able to book an appointement with that doctor. The system will show the free time slots that the
+doctor is available and choose the one that is the most convenient for them.
+
+3. The system should be able to generate documents based on current data held by the database and doctors notes that document
+a patients diagnosis, appointments and treatment which a person with proper identification and authorization can request
+printed copy of at the reception.
+
+4. The system should be able to process different kind of payements and keep track of all the different bills that are fiscalized
+and their information such as payement amounr, payement method, insurance companies, the services that were provided and wether the 
+person will pay it at once or in small increments.
+
+5. The database will also hold information for the different medication that are stored in the pharmacy inventory, such as the medicine
+name and the doctor who is authorized in recommending this precription as well verifying if the doctor precription is legit and storing
+informtion about the patients that is using the precription and the sytem will also generate bill for the purchased item.
+
+6. The System can also take laboratory requests to analyze certain componets from the requester. Some test results can be requested by
+anyone but others are exclusive to only to verified staff. The system will keep track of request date, the requesters information ,
+the test results and the date the test results are out as well as notify the user when they are out.
+
+7. The system will also hold information about the staff such as their departament, status, payement, as well
+as view information on the medical files of the doctors or patients that are stored in the database and it will allow
+the administrtor of the bussiness update information about the staff. The admin can also view bills and calculate monthly earnings.
+
+The system should improve operational efficiency, data accuracy, patient safety, and communication between hospital departments.
+The HMS must be accessible through a secure web interface and must maintain confidentiality and integrity of sensitive medical data.
+
+The system will support multiple user roles, each with specific permissions.
+
+1. System Administrator
+
+Responsible for system configuration, user management, and security.
+
+Permissions include:
+
+a. Manage user accounts
+
+b. Assign user roles
+
+c. Configure system settings
+
+d. Monitor system logs
+
+e. Maintain data backups
+
+2. Doctor
+
+Responsible for patient diagnosis and treatment.
+
+Permissions include:
+
+a. View patient records
+
+b. Update medical records
+
+c. Create prescriptions
+
+d. Request laboratory tests
+
+e. Manage appointments
+
+3. Nurse
+
+Supports doctors and monitors patient conditions.
+
+Permissions include:
+
+a. View assigned patient records
+
+b. Record patient vitals
+
+c. Update treatment progress
+
+d. Assist in scheduling treatments
+
+4. Receptionist
+
+Handles patient registration and appointment scheduling.
+
+a. Permissions include:
+
+b. Register new patients
+
+c. Schedule appointments
+
+d. Update patient information
+
+e. Check appointment availability
+
+5. Pharmacist
+
+Manages medication inventory and prescriptions.
+
+a. Permissions include:
+
+b. View prescriptions
+
+c. Dispense medications
+
+d. Update pharmacy inventory
+
+e. Track medication usage
+
+
