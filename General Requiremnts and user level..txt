@@ -86,28 +86,54 @@ d. Assist in scheduling treatments
 
 Handles patient registration and appointment scheduling.
 
-a. Permissions include:
+ Permissions include:
 
-b. Register new patients
+a. Register new patients
 
-c. Schedule appointments
+b. Schedule appointments
 
-d. Update patient information
+c. Update patient information
 
-e. Check appointment availability
+d. Check appointment availability
 
 5. Pharmacist
 
 Manages medication inventory and prescriptions.
 
-a. Permissions include:
+Permissions include:
 
-b. View prescriptions
+a. View prescriptions
 
-c. Dispense medications
+b. Dispense medications
 
-d. Update pharmacy inventory
+c. Update pharmacy inventory
 
-e. Track medication usage
+d. Track medication usage
 
+6. Billing officer.
 
+Responsible for financial operations, and billing administration.
+
+Permissions include:
+
+a. Generate patients bill
+
+b. Records patients insurance information.
+
+c. Process patient payement.
+
+d. Generate financial report.
+
+7. Human Resources officer.
+
+Responsible for staff management and payroll.
+
+Permissions includes:
+
+a. Updates staff information.
+
+b. Register new satff members.
+
+c. Process staff payerolls payements.
+
+d. Generate payeroll reports.
