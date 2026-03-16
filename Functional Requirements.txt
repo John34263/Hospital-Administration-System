@@ -66,28 +66,24 @@
 
 34. Billing Officers generate patient bills.
 
-35. Billing Officers process patient payments.
+35. Billing Officers process payements and record their information.
 
-36. Billing Officers record insurance information.
+36. Billing Officers and Administrators generate financial reports.
 
-37. Billing Officers update billing records.
+37. HR Officers and Administrators register hospital staff members.
 
-38. Billing Officers and Administrators generate financial reports.
+38. HR Officers update staff employment information.
 
-39. HR Officers and Administrators register hospital staff members.
+39. HR Officers record staff salaries.
 
-40. HR Officers update staff employment information.
+40. HR Officers process staff payroll payments.
 
-41. HR Officers record staff salaries.
+41. HR Officers and Administrators generate payroll reports.
 
-42. HR Officers process staff payroll payments.
+42. Patients view scheduled appointments.
 
-43. HR Officers and Administrators generate payroll reports.
+43. Patients view personal medical history.
 
-44. Patients view scheduled appointments.
+44. Patients download prescriptions.
 
-45. Patients view personal medical history.
-
-46. Patients download prescriptions.
-
-47. Patients view billing statements.
+45. Patients view billing statements.
