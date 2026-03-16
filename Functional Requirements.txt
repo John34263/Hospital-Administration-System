@@ -1,73 +1,95 @@
-1. Administrator creates user accounts
+1. Administrator creates user accounts.
 
-2. Administrator updates user accounts
+2. Administrator updates user accounts.
 
-3. Administrator deletes user accounts
+3. Administrator deletes user accounts.
 
-4. Administrator assigns user roles
+4. Administrator assigns system roles to users.
 
-5. Administrator views system activity logs
+5. Administrator configures system settings.
 
-6. Administrator configures system settings
+6. Administrator monitors system activity logs.
 
-7. Receptionist registers new patients
+7. Administrator performs system data backups.
 
-8. Receptionist updates patient information
+8. Administrator restores system data from backups.
 
-9. Receptionist schedules patient appointments
+9. Receptionist and Administrator register new patients.
 
-10. Receptionist reschedules patient appointments
+10. Receptionist and Administrator update patient personal information.
 
-11. Receptionist cancels patient appointments
+11. Receptionist schedules patient appointments.
 
-12. Doctor views patient medical records
+12. Receptionist reschedules patient appointments.
 
-13. Doctor updates patient medical records
+13. Receptionist cancels patient appointments.
 
-14. Doctor creates medical prescriptions
+14. Receptionist and Medical Staff (Doctor/Nurse) view appointment schedules.
 
-15. Doctor requests laboratory tests
+15. Receptionist searches patient records.
 
-16. Doctor views laboratory test results
+16. Doctors and Nurses view patient medical records.
 
-17. Doctor records patient diagnoses
+17. Doctors and Nurses update patient medical records.
 
-18. Doctor records treatment plans
+18. Doctors record patient diagnoses.
 
-19. Nurse records patient vital signs
+19. Doctors and Nurses record patient treatment information.
 
-20. Nurse updates patient treatment progress
+20. Doctors and Nurses view patient medical history.
 
-21. Nurse views assigned patient records
+21. Doctors create treatment plans.
 
-22. Nurse assists in patient appointment scheduling
+22. Doctors prescribe medications.
 
-23. Laboratory technician receives laboratory test requests
+23. Doctors and Nurses monitor patient treatment progress.
 
-24. Laboratory technician records laboratory test results
+24. Nurses record patient vital signs.
 
-25. Laboratory technician updates laboratory test status
+25. Nurses and Doctors record patient observations.
 
-26. Laboratory technician sends laboratory results to doctors
+26. Doctors request laboratory tests.
 
-27. Pharmacist views prescriptions
+27. Laboratory Technicians receive laboratory test requests.
 
-28. Pharmacist dispenses medications
+28. Laboratory Technicians record laboratory test results.
 
-29. Pharmacist updates medication inventory
+29. Doctors and Nurses view laboratory results.
 
-30. Pharmacist records medication transactions
+30. Laboratory Technicians update laboratory test status.
 
-31. Billing officer generates patient bills
+31. Pharmacists and Doctors view prescriptions.
 
-32. Billing officer processes patient payments
+32. Pharmacists dispense medications.
 
-33. Billing officer records insurance information
+33. Pharmacists update medication inventory.
 
-34. Billing officer generates financial reports
+34. Pharmacists record medication transactions.
 
-35. Patient views personal medical history
+35. Billing Officers generate patient bills.
 
-36. Patient views scheduled appointments
+36. Billing Officers process patient payments.
 
-37. Patient downloads prescriptions
+37. Billing Officers record insurance information.
+
+38. Billing Officers update billing records.
+
+39. Billing Officers and Administrators generate financial reports.
+
+40. HR Officers and Administrators register hospital staff members.
+
+41. HR Officers update staff employment information.
+
+42. HR Officers record staff salaries.
+
+43. HR Officers process staff payroll payments.
+
+44. HR Officers and Administrators generate payroll reports.
+
+45. Patients view scheduled appointments.
+
+46. Patients view personal medical history.
+
+47. Patients download prescriptions.
+
+48. Patients view billing statements.
