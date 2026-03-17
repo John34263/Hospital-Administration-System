@@ -26,7 +26,7 @@
 
 14. Receptionist and Medical Staff (Doctor/Nurse) view appointment schedules.
 
-15. Receptionist searches patient records.
+15. Medical Staff (Doctor/Nurse) searches patient records.
 
 16. Doctors and Nurses view patient medical records.
 
