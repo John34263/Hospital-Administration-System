@@ -34,7 +34,7 @@
 
 18. Doctors record patient diagnoses.
 
-19. Doctors and Nurses record patient treatment information.
+19. Doctor views Appointement
 
 20. Doctors and Nurses view patient medical history.
 
@@ -42,7 +42,7 @@
 
 22. Doctors prescribe medications.
 
-23. Doctors and Nurses monitor patient treatment progress.
+23. Doctors and Nurses monitor current bedridden patient vitals.
 
 24. Nurses record patient vital signs.
 
